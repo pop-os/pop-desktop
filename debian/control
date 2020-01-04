@@ -145,5 +145,7 @@ Recommends:
     network-manager-config-connectivity-pop,
 # Desktop
     hidpi-daemon,
+# System
+    earlyoom,
 Conflicts: system76-desktop
 Description: Pop Desktop Metapackage
